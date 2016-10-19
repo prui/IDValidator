@@ -6,7 +6,7 @@
     ],
     "description": "IDValidator",
     "main": [
-        "src/*.js",
+        "src/*",
     ],
     "keywords": [
         "IDValidator",
