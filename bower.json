@@ -6,8 +6,8 @@
     ],
     "description": "IDValidator",
     "main": [
-        "dist/IDValidator.min.js",
-        "dist/GB2260.min.js"
+        "src/IDValidator.js",
+        "src/GB2260.js"
     ],
     "keywords": [
         "IDValidator",
