@@ -1,7 +1,10 @@
 {
     "name": "id-validator",
     "description": "中国大陆个人身份证号码验证器（JS版）",
-    "main": "dist/id-validator.min.js",
+    "main": [
+        "dist/IDValidator.min.js",
+        "dist/GB2260.min.js"
+    ],
     "authors": [
         "prui"
     ],
